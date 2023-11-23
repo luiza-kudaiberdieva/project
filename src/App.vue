@@ -189,8 +189,8 @@
           <button type="button" class="button-write btn btn-light ">View All</button>
         </div>
         <div class="row ">
-          <div class=" col-12 col-lg-6 ">
-            <div class="card " >
+          <div class="col-12 col-md-6  col-lg-6 col-xl-6 mt-4 ">
+            <div class="card py-4 px-4" >
               <img src="./assets/img/sec3.1.png" alt="">
               <div class="d-flex justify-content-between align-items-center">
                 <div >
@@ -206,8 +206,8 @@
               </div>
             </div>
           </div>
-          <div class="col-12 col-lg-6">
-            <div class="card   " >
+          <div class="col-12 col-md-6  col-lg-6 col-xl-6 mt-4 ">
+            <div class="card py-4 px-4  " >
               <img src="./assets/img/sec3.2.png" alt="">
               <div class="d-flex justify-content-between align-items-center">
                 <div >
@@ -223,8 +223,8 @@
               </div>
             </div>
           </div>
-          <div class=" col-12 col-lg-6">
-            <div class="card  " >
+          <div class="col-12 col-md-6  col-lg-6 col-xl-6 mt-4 ">
+            <div class="card py-4 px-4 " >
               <img src="./assets/img/sec3.3.png" alt="">
               <div class="d-flex justify-content-between align-items-center">
                 <div >
@@ -240,8 +240,8 @@
               </div>
             </div>
           </div>
-          <div class="col-12 col-lg-6">
-            <div class="card   " >
+          <div class="col-12 col-md-6  col-lg-6 col-xl-6 mt-4 ">
+            <div class="card  py-4 px-4 " >
               <img src="./assets/img/sec3.4.png" alt="">
               <div class="d-flex justify-content-between align-items-center">
                 <div >
@@ -257,8 +257,8 @@
               </div>
             </div>
           </div>
-          <div class="col-12 col-lg-6">
-            <div class="card   " >
+          <div class="col-12 col-md-6  col-lg-6 col-xl-6 mt-4 ">
+            <div class="card  py-4 px-4  " >
               <img src="./assets/img/sec3.5.png" alt="">
               <div class="d-flex justify-content-between align-items-center">
                 <div >
@@ -274,8 +274,8 @@
               </div>
             </div>
           </div>
-          <div class="col-12 col-lg-6 ">
-            <div class="card  " >
+          <div class="col-12 col-md-6  col-lg-6 col-xl-6 mt-4  ">
+            <div class="card py-4 px-4 " >
               <img src="./assets/img/sec3.6.png" alt="">
               <div class="d-flex justify-content-between align-items-center">
                 <div >
@@ -291,10 +291,7 @@
               </div>
             </div>
           </div>
-
         </div>
-
-
       </div>
     </div>
   </section>
@@ -307,18 +304,89 @@
           <p class="benefits__text">Lorem ipsum dolor sit amet consectetur. Tempus tincidunt etiam eget elit id imperdiet et. Cras eu sit dignissim lorem nibh et. Ac cum eget habitasse in velit fringilla feugiat senectus in.</p>
           <button type="button" class="button-write btn btn-light ">View All</button>
         </div>
+        <div class="row">
+          <div class="col-12 col-md-6  col-lg-6 col-xl-6 mt-4 ">
+            <div class="card py-4 px-4" >
+              <p class="card-text">The web design course provided a solid foundation for me. The instructors were knowledgeable and supportive, and the interactive learning environment was engaging. I highly recommend it!</p>
 
+              <div class="card-body d-flex justify-content-between ">
+                <div class="d-flex">
+                  <img style="margin-left:-15px" src="./assets/img/sec4.1.svg" alt="">
+                  <h1 class="testimonials__text mt-3">Sarah L</h1>
+                </div>
+                <button type="button" class=" btn btn-light ">Read Full Story</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-md-6  col-lg-6 col-xl-6 mt-4 ">
+            <div class="card py-4 px-4" >
+              <p class="card-text">The UI/UX design course exceeded my expectations. The instructor's expertise and practical assignments helped me improve my design skills. I feel more confident in my career now. Thank you!</p>
+
+              <div class="card-body d-flex justify-content-between ">
+                <div class="d-flex">
+                  <img style="margin-left:-15px" src="./assets/img/sec4.2.svg" alt="">
+                  <h1 class="testimonials__text mt-3">Jason M</h1>
+                </div>
+                <button type="button" class=" btn btn-light ">Read Full Story</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-md-6  col-lg-6 col-xl-6 mt-4 ">
+            <div class="card py-4 px-4" >
+              <p class="card-text">The mobile app development course was fantastic! The step-by-step tutorials and hands-on projects helped me grasp the concepts easily. I'm now building my own app. Great course!</p>
+
+              <div class="card-body d-flex justify-content-between ">
+                <div class="d-flex">
+                  <img style="margin-left:-15px" src="./assets/img/sec4.3.svg" alt="">
+                  <h1 class="testimonials__text mt-3">Emily R</h1>
+                </div>
+                <button type="button" class=" btn btn-light ">Read Full Story</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-md-6  col-lg-6 col-xl-6 mt-4 ">
+            <div class="card py-4 px-4" >
+              <p class="card-text">I enrolled in the graphic design course as a beginner, and it was the perfect starting point. The instructor's guidance and feedback improved my design abilities significantly. I'm grateful for this course!</p>
+
+              <div class="card-body d-flex justify-content-between ">
+                <div class="d-flex">
+                  <img style="margin-left:-15px" src="./assets/img/sec4.4.svg" alt="">
+                  <h1 class="testimonials__text mt-3">Michael K</h1>
+                </div>
+                <button type="button" class=" btn btn-light ">Read Full Story</button>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 </section>
+<section class="pricing">
+  <div class="background">
+    <div class="container">
+      
+    </div>
+  </div>
 
+</section>
 </template>
 
 
 
 
 
-<style scoped>
+<style >
+.testimonials__text{
+  color:  #333;
+  font-family: "Be Vietnam Pro";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+
+}
+
+
 .card{
   border: none;
 }
